@@ -86,16 +86,16 @@
 
   ## 🚀 Como Executar
   
-     Clone o repositório:
-  
-                git clone https://github.com/layannemaryus/covid-data-analysis.git
+  Clone o repositório:
+
+       git clone https://github.com/layannemaryus/covid-data-analysis.git
           
-     Instale as dependências:
+  Instale as dependências:
           
-          pip install -r requirements.txt
+      pip install -r requirements.txt
     
           
-     Execute os notebooks na pasta 'notebooks'.
+  Execute os notebooks na pasta 'notebooks'.
 
 
 
