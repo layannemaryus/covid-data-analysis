@@ -86,22 +86,23 @@
 
   ## 🚀 Como Executar
   
-  Clone o repositório:
+  1. Clone o repositório:
 
        git clone https://github.com/layannemaryus/covid-data-analysis.git
           
-  Instale as dependências:
+ 2. Instale as dependências:
           
       pip install -r requirements.txt
     
-          
-  Execute os notebooks na pasta 'notebooks'.
+ 3.  Execute os notebooks na pasta 'notebooks'.
+
+
 
 
 
               
-                                                                                👩‍💻 Autora
-                                                                        Layanne Mary Urbano dos Santos
-                                                                  Analista de Dados | Power BI | SQL | Python
-                                                                     LinkedIn: linkedin.com/in/layannemaryu
-                                                                         GitHub: github.com/layannemaryus
+                                                                       👩‍💻 Autora
+                                                               Layanne Mary Urbano dos Santos
+                                                        Analista de Dados | Power BI | SQL | Python
+                                                           LinkedIn: linkedin.com/in/layannemaryu
+                                                              GitHub: github.com/layannemaryus
