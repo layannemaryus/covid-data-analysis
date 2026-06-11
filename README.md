@@ -68,26 +68,40 @@
  
 ## 📊 Visualizações
 
-Evolução Global dos Casos
-<img width="962" height="544" alt="image" src="https://github.com/user-attachments/assets/7481e07d-59fb-4f56-b232-53f9747077e7" />
+  Evolução Global dos Casos
+  <img width="962" height="544" alt="image" src="https://github.com/user-attachments/assets/7481e07d-59fb-4f56-b232-53f9747077e7" />
+  
+  Top Países por Número de Óbitos
+  <img width="955" height="719" alt="image" src="https://github.com/user-attachments/assets/0e0aa14f-c9d9-4a25-be8f-0537fedc8172" />
+  
+  Evolução dos Casos no Brasil
+  <img width="949" height="546" alt="image" src="https://github.com/user-attachments/assets/1cf07a94-5b76-4981-9261-82f2f33f9713" />
+  
 
-Top Países por Número de Óbitos
-<img width="955" height="719" alt="image" src="https://github.com/user-attachments/assets/0e0aa14f-c9d9-4a25-be8f-0537fedc8172" />
-
-Evolução dos Casos no Brasil
-<img width="949" height="546" alt="image" src="https://github.com/user-attachments/assets/1cf07a94-5b76-4981-9261-82f2f33f9713" />
-
-
-## 🚀 Próximos passos
+  ## 🚀 Próximos passos
   - Implementar novas visualizações e métricas;
   - Explorar análises comparativas por região;
   - Desenvolver dashboard interativo para acompanhamento dos indicadores;
   - Aplicar bibliotecas de visualização avançadas para enriquecer a análise.
 
+  ## 🚀 Como Executar
+  
+     Clone o repositório:
+  
+                git clone https://github.com/layannemaryus/covid-data-analysis.git
+          
+     Instale as dependências:
+          
+          pip install -r requirements.txt
+    
+          
+     Execute os notebooks na pasta 'notebooks'.
 
 
-                                                                  👩‍💻 Autora
-                                                          Layanne Mary Urbano dos Santos
-                                                    Analista de Dados | Power BI | SQL | Python
-                                                       LinkedIn: linkedin.com/in/layannemaryu
-                                                           GitHub: github.com/layannemaryus
+
+              
+                                                                                👩‍💻 Autora
+                                                                        Layanne Mary Urbano dos Santos
+                                                                  Analista de Dados | Power BI | SQL | Python
+                                                                     LinkedIn: linkedin.com/in/layannemaryu
+                                                                         GitHub: github.com/layannemaryus
