@@ -76,7 +76,23 @@
   
   Evolução dos Casos no Brasil
   <img width="949" height="546" alt="image" src="https://github.com/user-attachments/assets/1cf07a94-5b76-4981-9261-82f2f33f9713" />
-  
+
+  ## 📂 Estrutura do Projeto
+
+
+    covid-data-analysis/
+    │
+    ├── data/
+    │   └── raw/
+    │       └── covid_19_clean_complete.csv
+    │
+    ├── notebooks/
+    │   ├── 01_data_preparation.ipynb
+    │   └── 02_exploratory_analysis.ipynb
+    │
+    ├── README.md
+    └── requirements.txt
+
 
   ## 🚀 Próximos passos
   - Implementar novas visualizações e métricas;
